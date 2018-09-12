@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\bin\Debug\UserInternetMAC.exe.config
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\bin\Debug\UserInternetMAC.exe
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\bin\Debug\UserInternetMAC.pdb
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC_MarkupCompile.cache
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC_MarkupCompile.lref
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC.g.resources
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC.Properties.Resources.resources
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC.exe
+C:\Users\USER\Desktop\UserInternetMAC\UserInternetMAC\obj\Debug\UserInternetMAC.pdb
